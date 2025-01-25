@@ -84,7 +84,7 @@
 -   **이윤주**: iOS 개발, 캐릭터 디자인 - [duridudu](https://github.com/duridudu)
 -   **안지희**: iOS 개발, 디자인 - [Anjihee](https://github.com/Anjihee)
 -   **최이서**: AOS 개발, 디자인 - [chtoqur](https://github.com/chtoqur)
--   **현경찬**: BE 개발, AOS 개 - [gyeongmann](http://github.com/gyeongmann)
+-   **현경찬**: BE 개발, AOS 개발 - [gyeongmann](http://github.com/gyeongmann)
 
 <br/>
 <br/>
